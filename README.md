@@ -201,7 +201,7 @@ Production connection string (from `server.js`):
 3. `$env:DEV = "true"` (or `export DEV=true`) → `npm run setup-db`
 4. **Dev:** `npm start` + `npm run serve` → http://localhost:8080  
    **Prod local:** `npm run build` → `npm start` → http://localhost:3000
-   
+
    **Prod remote server:**  `npm start` → 144.126.198.94:3000
 
 
@@ -222,7 +222,7 @@ Production connection string (from `server.js`):
 
 ### Testing
 - Jest
-- Supertest
+- Supertest 
 
 ### DevOps & Infrastructure
 - Linux
@@ -244,4 +244,12 @@ Through this project, I gained practical experience in:
 - Deploying applications to cloud-hosted Linux servers
 - Managing infrastructure resources responsibly
 - Applying software engineering and DevOps fundamentals
+
+## Author
+
+Udobata Mariam Ifeanyi
+DevOps Engineer
+Completed as part of the fulfilment of TWN's The Ultimate IT Fundamentals Course.
+
+
 
