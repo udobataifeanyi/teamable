@@ -50,7 +50,7 @@ This reflects a common DevOps practice of managing infrastructure responsibly an
 ## 
 
 ### Cloud Deployment on DigitalOcean
-<img width="1055" height="1490" alt="imageRemoteServer" src="https://github.com/user-attachments/assets/fbc4bd7b-9c59-47db-8a6c-eec31eb5b474" />
+<img width="600" height="1490" alt="imageRemoteServer" src="https://github.com/user-attachments/assets/fbc4bd7b-9c59-47db-8a6c-eec31eb5b474" />
 
 The application successfully running on a cloud-hosted Linux server using a public IP address.
 
@@ -58,7 +58,7 @@ The application successfully running on a cloud-hosted Linux server using a publ
 
 Node.js application successfully connected to MongoDB and serving requests on port 3000.
 
-<img width="1634" height="428" alt="Screenshot 2026-06-02 171055" src="https://github.com/user-attachments/assets/5160613f-0fe2-47e6-a98c-4c986a8ca1bc" />
+<img width="600" height="428" alt="Screenshot 2026-06-02 171055" src="https://github.com/user-attachments/assets/5160613f-0fe2-47e6-a98c-4c986a8ca1bc" />
 
 
 ## Project layout
@@ -170,7 +170,7 @@ export DB_PASS=your_db_password
 npm run setup-db
 ```
 
-##6.Run Application
+6.Run Application
 
 Development:
 
@@ -214,7 +214,7 @@ Production connection string (from `server.js`):
 3. `$env:DEV = "true"` (or `export DEV=true`) → `npm run setup-db`
 4. **Dev:** `npm start` + `npm run serve` → http://localhost:8080  
    **Prod local:** `npm run build` → `npm start` → http://localhost:3000
-    **Prod remote server:**  `npm start` → 144.126.198.94:3000
+   **Prod remote server:**  `npm start` → 144.126.198.94:3000
 
 
 ## Technologies Used
