@@ -50,7 +50,7 @@ This reflects a common DevOps practice of managing infrastructure responsibly an
 ## 
 
 ### Cloud Deployment on DigitalOcean
-<img width="600" height="1490" alt="imageRemoteServer" src="https://github.com/user-attachments/assets/fbc4bd7b-9c59-47db-8a6c-eec31eb5b474" />
+<img width="400" height="400" alt="imageRemoteServer" src="https://github.com/user-attachments/assets/fbc4bd7b-9c59-47db-8a6c-eec31eb5b474" />
 
 The application successfully running on a cloud-hosted Linux server using a public IP address.
 
@@ -58,7 +58,7 @@ The application successfully running on a cloud-hosted Linux server using a publ
 
 Node.js application successfully connected to MongoDB and serving requests on port 3000.
 
-<img width="600" height="428" alt="Screenshot 2026-06-02 171055" src="https://github.com/user-attachments/assets/5160613f-0fe2-47e6-a98c-4c986a8ca1bc" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 171055" src="https://github.com/user-attachments/assets/5160613f-0fe2-47e6-a98c-4c986a8ca1bc" />
 
 
 ## Project layout
